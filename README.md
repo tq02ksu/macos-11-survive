@@ -9,4 +9,5 @@
 
 - **终端**: kitty, rio
 - Github CLI: gt-2.79.0, gh-2.82.1
-- **IDE**: vs code 1.106.3
+- **IDE**: vs code 1.106.3(copilot 可用)
+- **Coding Agent**: goose, openhands, pi
