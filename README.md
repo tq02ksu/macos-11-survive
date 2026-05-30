@@ -3,7 +3,7 @@
 
 # 日常使用
 - **Clash**: Clash verge rev 2.4.4
-- **Chrome**: Chrome 138.0.7204.184
+- **Chrome**:  [Chrome 138.0.7204.184](https://www.google.com/chrome/other-platforms/)
 
 # 开发工具
 
